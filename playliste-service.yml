@@ -1,3 +1,4 @@
 lastFmApiKey: a48c2a6d336fe251686ac33a6f51fa72
 rabbitMQHost: localhost:5672
-splunk.metrics: true
+splunk:
+  metrics: true
