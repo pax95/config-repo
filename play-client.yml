@@ -1,1 +1,1 @@
-kafkaHost: localhost:9092
+kafkaHost: 192.168.99.100:9092
