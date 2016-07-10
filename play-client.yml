@@ -4,6 +4,6 @@ spring:
       kafka:
         binder:
           brokers:
-            - localhost:9092
+            - kafka:9092
           zk-nodes:
-            - localhost:2181
+            - zookeeper:2181
