@@ -4,6 +4,6 @@ spring:
       kafka:
         binder:
           brokers:
-            - 0.0.0.0:9092
+            - localhost:9092
           zk-nodes:
-            - 0.0.0.0:2181
+            - localhost:2181
