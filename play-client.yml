@@ -6,4 +6,4 @@ spring:
           brokers:
             - kafka:9092
           zk-nodes:
-            - zookeeper:2181
+            - kafka:2181
