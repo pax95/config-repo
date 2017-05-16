@@ -4,12 +4,11 @@ foo: bar
 splunk:
   metrics: false
   eventCollectorEndpoint : https://localhost:8088/services/collector
-  token: EE26991E-1DA5-40B1-AA4E-635B899DCC69
-  
-___
+  token: EE26991E-1DA5-40B1-AA4E-635B899DCC69  
 
+---
 spring:
-    profiles: foo
+  profiles: foo
 
 bar: whatever
 
