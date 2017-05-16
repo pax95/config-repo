@@ -1,5 +1,6 @@
 lastFmApiKey: a48c2a6d336fe251686ac33a6f51fa72
 kafkaHost: kafka:9092
+foo: bar
 splunk:
   metrics: false
   eventCollectorEndpoint : https://localhost:8088/services/collector
